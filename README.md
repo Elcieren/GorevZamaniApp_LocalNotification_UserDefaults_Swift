@@ -176,7 +176,7 @@
     ```
   </details> 
 
-  details>
+  <details>
     <summary><h2>Task Modeli</summary>
    Task modeli, task, saat, ve dakika bilgilerini içerir.
    Codable protokolünü kullanarak tasks listesini JSON formatında UserDefaults’e kaydetmek ve okumak mümkündür.
